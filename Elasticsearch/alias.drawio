@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-16T15:23:03.499Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="TQKNAeeMBt2kKazVqsQP" version="16.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-16T15:26:41.165Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="a3eQha7JF2_KBHNua-w5" version="16.4.3" type="github">
   <diagram id="5pmQ1EX8EYKTq1uLztX0" name="第 1 页">
     <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -96,27 +96,21 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2YxzEI0K93GKoAJTI_qC-45" value="&lt;font style=&quot;font-size: 14px&quot;&gt;client&lt;br&gt;手机应用&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="1040" width="100" height="40" as="geometry" />
+          <mxGeometry x="130" y="1110" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2YxzEI0K93GKoAJTI_qC-47" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;strokeWidth=1.5;" edge="1" parent="1" source="2YxzEI0K93GKoAJTI_qC-48">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="600" y="1060" as="targetPoint" />
+            <mxPoint x="600" y="1130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2YxzEI0K93GKoAJTI_qC-48" value="&lt;font style=&quot;font-size: 14px&quot;&gt;phone&lt;br&gt;手机别名&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="1022.5" width="75" height="75" as="geometry" />
+          <mxGeometry x="360" y="1092.5" width="75" height="75" as="geometry" />
         </mxCell>
         <mxCell id="2YxzEI0K93GKoAJTI_qC-51" value="&lt;font style=&quot;font-size: 13px&quot;&gt;请求&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="270" y="1037.5" width="40" height="20" as="geometry" />
+          <mxGeometry x="270" y="1107.5" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2YxzEI0K93GKoAJTI_qC-53" value="&lt;font style=&quot;font-size: 13px&quot;&gt;指向新索引&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="470" y="1032.5" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="2YxzEI0K93GKoAJTI_qC-54" value="&lt;font style=&quot;font-size: 14px&quot;&gt;client&lt;br&gt;电脑应用&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="1140" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="2YxzEI0K93GKoAJTI_qC-55" value="&lt;font style=&quot;font-size: 14px&quot;&gt;client&lt;br&gt;电视应用&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="1230" width="100" height="40" as="geometry" />
+          <mxGeometry x="470" y="1102.5" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2YxzEI0K93GKoAJTI_qC-58" value="&lt;font style=&quot;font-size: 13px&quot;&gt;new-my-app&lt;br&gt;新索引&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;sketch=1;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="590" y="725" width="70" height="95" as="geometry" />
@@ -125,7 +119,59 @@
           <mxGeometry x="590" y="865" width="70" height="95" as="geometry" />
         </mxCell>
         <mxCell id="2YxzEI0K93GKoAJTI_qC-61" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;sketch=1;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="600" y="1000" width="120" height="180" as="geometry" />
+          <mxGeometry x="580" y="1070" width="180" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="2YxzEI0K93GKoAJTI_qC-62" value="product_index&lt;br&gt;商品索引数据" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;sketch=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="615" y="1030" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2YxzEI0K93GKoAJTI_qC-63" value="手机数据" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontSize=13;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1107.5" width="135" height="52.5" as="geometry" />
+        </mxCell>
+        <mxCell id="2YxzEI0K93GKoAJTI_qC-64" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;fontSize=14;strokeWidth=1.5;" edge="1" parent="1" source="2YxzEI0K93GKoAJTI_qC-65" target="2YxzEI0K93GKoAJTI_qC-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2YxzEI0K93GKoAJTI_qC-65" value="&lt;font style=&quot;font-size: 14px&quot;&gt;client&lt;br&gt;电脑应用&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="1207.5" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2YxzEI0K93GKoAJTI_qC-66" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;strokeWidth=1.5;" edge="1" parent="1" source="2YxzEI0K93GKoAJTI_qC-67">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="1227.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2YxzEI0K93GKoAJTI_qC-67" value="&lt;font style=&quot;font-size: 14px&quot;&gt;phone&lt;br&gt;手机别名&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1190" width="75" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="2YxzEI0K93GKoAJTI_qC-68" value="&lt;font style=&quot;font-size: 13px&quot;&gt;请求&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1205" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2YxzEI0K93GKoAJTI_qC-69" value="&lt;font style=&quot;font-size: 13px&quot;&gt;指向新索引&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1200" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2YxzEI0K93GKoAJTI_qC-70" value="手机数据" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontSize=13;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1205" width="135" height="52.5" as="geometry" />
+        </mxCell>
+        <mxCell id="2YxzEI0K93GKoAJTI_qC-77" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;fontSize=14;strokeWidth=1.5;" edge="1" parent="1" source="2YxzEI0K93GKoAJTI_qC-78" target="2YxzEI0K93GKoAJTI_qC-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2YxzEI0K93GKoAJTI_qC-78" value="&lt;font style=&quot;font-size: 14px&quot;&gt;client&lt;br&gt;电视应用&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="1307.5" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2YxzEI0K93GKoAJTI_qC-79" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;strokeWidth=1.5;" edge="1" parent="1" source="2YxzEI0K93GKoAJTI_qC-80">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="1327.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2YxzEI0K93GKoAJTI_qC-80" value="&lt;font style=&quot;font-size: 14px&quot;&gt;phone&lt;br&gt;手机别名&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1290" width="75" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="2YxzEI0K93GKoAJTI_qC-81" value="&lt;font style=&quot;font-size: 13px&quot;&gt;请求&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1305" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2YxzEI0K93GKoAJTI_qC-82" value="&lt;font style=&quot;font-size: 13px&quot;&gt;指向新索引&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1300" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2YxzEI0K93GKoAJTI_qC-83" value="手机数据" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontSize=13;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1305" width="135" height="52.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
