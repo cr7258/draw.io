@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2022-02-24T14:21:21.598Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" version="16.6.1" etag="LNuKH1yCrXeU_fdCxB1F" type="github"><diagram id="UXb4VBYM-eE1C1LwkVBp">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-02-24T14:33:16.212Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="crsHryYpyCab8ghLiIZV" version="16.6.1" type="github">
+  <diagram id="UXb4VBYM-eE1C1LwkVBp" name="Page-1">
+    <mxGraphModel dx="1331" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZL3sPKoAzvv-5sr0PZJh-4" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="260" y="160" width="340" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="ZL3sPKoAzvv-5sr0PZJh-1" value="&lt;b&gt;组件模板 1&lt;/b&gt;&lt;br&gt;k1:text" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="377" y="210" width="96" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZL3sPKoAzvv-5sr0PZJh-6" value="&lt;b&gt;索引模板 1&lt;/b&gt;&lt;br&gt;&lt;span&gt;priority 100&lt;/span&gt;&lt;br&gt;&lt;span&gt;k1:long&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="160" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZL3sPKoAzvv-5sr0PZJh-7" value="&lt;b&gt;组件模板 2&lt;/b&gt;&lt;br&gt;k1:integer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="377" y="280" width="96" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZL3sPKoAzvv-5sr0PZJh-10" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="365" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZL3sPKoAzvv-5sr0PZJh-9" value="&lt;b&gt;索引模板 2&lt;/b&gt;&lt;br&gt;&lt;span&gt;priority 50&lt;/span&gt;&lt;br&gt;&lt;span&gt;k1:date&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="365" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZL3sPKoAzvv-5sr0PZJh-11" value="旧版本的索引模板 1&lt;br&gt;order 200&lt;br&gt;k1:bool" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="365" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZL3sPKoAzvv-5sr0PZJh-12" value="旧版本的索引模板 2&lt;br&gt;order 300&lt;br&gt;k1: keyword" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="365" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZL3sPKoAzvv-5sr0PZJh-13" value="创建索引时设置&lt;br&gt;k1:wildcard" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="370" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
