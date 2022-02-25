@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-25T01:59:49.253Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="UkrI7lDh7V_gvNmMiJcT" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-25T02:01:35.552Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="2onM4H-gs-s2DADX-DYJ" version="16.5.6" type="github">
   <diagram id="UXb4VBYM-eE1C1LwkVBp" name="Page-1">
     <mxGraphModel dx="1207" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -22,7 +22,7 @@
         <mxCell id="ZL3sPKoAzvv-5sr0PZJh-9" value="&lt;b&gt;索引模板 2&lt;/b&gt;&lt;br&gt;&lt;span&gt;priority 50&lt;/span&gt;&lt;br&gt;&lt;span&gt;k1:date&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="385" y="365" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ZL3sPKoAzvv-5sr0PZJh-11" value="旧版本的索引模板 1&lt;br&gt;order 200&lt;br&gt;k1:bool" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="ZL3sPKoAzvv-5sr0PZJh-11" value="旧版本的索引模板 1&lt;br&gt;order 200&lt;br&gt;k1:boolean" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="365" y="525" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZL3sPKoAzvv-5sr0PZJh-12" value="旧版本的索引模板 2&lt;br&gt;order 300&lt;br&gt;k1: keyword" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
