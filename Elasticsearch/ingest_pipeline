@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-07T03:10:12.277Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="dKKYzS7WFytZ99ue8GVp" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-07T03:25:39.127Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="NXVBAc1BUvyoHnh2cJWw" version="16.6.4" type="github">
   <diagram id="gvuN8XabHMahf1fBk5A3" name="第 1 页">
-    <mxGraphModel dx="1052" dy="671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1051" dy="671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -96,6 +96,41 @@
         </mxCell>
         <mxCell id="NIoTF2MbAio8bYlpPC98-25" value="pipeline：一组处理器" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;fontSize=13;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="240" y="420" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NIoTF2MbAio8bYlpPC98-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;dashed=1;" edge="1" parent="1" source="NIoTF2MbAio8bYlpPC98-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="942.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NIoTF2MbAio8bYlpPC98-28" value="&lt;font style=&quot;font-size: 12px&quot;&gt;写入的文档&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&amp;nbsp; &quot;id&quot;: &quot;&lt;/font&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34;&quot;&gt;S123456&lt;/span&gt;&lt;span&gt;&quot;,&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&amp;nbsp; &quot;timestamp&quot;: &quot;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34;&quot;&gt;20220303 15:22:11&lt;/span&gt;&lt;span&gt;&quot;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=5;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="90" y="908.75" width="200" height="67.5" as="geometry" />
+        </mxCell>
+        <mxCell id="NIoTF2MbAio8bYlpPC98-32" value="date" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;sketch=1;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="570" y="902.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NIoTF2MbAio8bYlpPC98-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=12;fontColor=#000000;fillColor=#FF3333;strokeColor=#FF3333;startArrow=none;" edge="1" parent="1" source="NIoTF2MbAio8bYlpPC98-48" target="NIoTF2MbAio8bYlpPC98-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="940" />
+              <mxPoint x="540" y="940" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NIoTF2MbAio8bYlpPC98-36" value="convert" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;sketch=1;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="400" y="902.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NIoTF2MbAio8bYlpPC98-48" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=3;sketch=1;fontSize=12;fontColor=#000000;fillColor=#000000;shadow=0;strokeColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="510" y="927.5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NIoTF2MbAio8bYlpPC98-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=12;fontColor=#000000;fillColor=#FF3333;strokeColor=#FF3333;endArrow=none;" edge="1" parent="1" source="NIoTF2MbAio8bYlpPC98-36" target="NIoTF2MbAio8bYlpPC98-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="479.92179855667837" y="940" as="sourcePoint" />
+            <mxPoint x="570.0782014433216" y="940" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NIoTF2MbAio8bYlpPC98-50" value="&lt;div&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;400 Bad Request&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;number_format_exception&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;unable to convert [S123456] to long&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=1;fontSize=11;fontColor=#FF3333;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="330" y="1060" width="220" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
