@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-06T03:42:51.295Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="AAZGDufqYlciNGcLQKTK" version="21.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-06T03:46:21.104Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="43D_k8luL8rmPjhM5SY7" version="21.1.4" type="github">
   <diagram name="Page-1" id="jJFY8xf02jSkTOgOK_PN">
     <mxGraphModel dx="2007" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -16,8 +16,8 @@
         <mxCell id="B892HaVggG5HM9IF_V_i-2" value="submariner-lighthouse-agent" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-450" y="295" width="105" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="B892HaVggG5HM9IF_V_i-3" value="submariner-lighthouse-agent" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="-440" y="360" width="105" height="40" as="geometry" />
+        <mxCell id="B892HaVggG5HM9IF_V_i-3" value="submariner-lighthouse-coredns" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-450" y="360" width="105" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
