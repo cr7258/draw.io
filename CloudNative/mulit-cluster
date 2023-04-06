@@ -1,23 +1,38 @@
-<mxfile host="app.diagrams.net" modified="2023-04-06T03:48:46.466Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="ueVXEAjv2YfZvfWUjZQV" version="21.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-06T03:54:46.570Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="AscNltU2SFqyrLjReNm9" version="21.1.4" type="github">
   <diagram name="Page-1" id="jJFY8xf02jSkTOgOK_PN">
     <mxGraphModel dx="2007" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="B892HaVggG5HM9IF_V_i-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-580" y="200" width="430" height="380" as="geometry" />
+        </mxCell>
         <mxCell id="WoY56daVZEK7-vc83MRY-3" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;perimeterSpacing=0;strokeWidth=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="-730" y="50" width="180" height="250" as="geometry" />
+          <mxGeometry x="-540" y="215" width="180" height="230" as="geometry" />
         </mxCell>
         <mxCell id="WoY56daVZEK7-vc83MRY-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=0;" parent="1" vertex="1">
           <mxGeometry x="-100" y="60" width="220" height="310" as="geometry" />
         </mxCell>
         <mxCell id="B892HaVggG5HM9IF_V_i-1" value="submariner-gateway" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="-690" y="95" width="105" height="40" as="geometry" />
+          <mxGeometry x="-500" y="260" width="105" height="40" as="geometry" />
         </mxCell>
         <mxCell id="B892HaVggG5HM9IF_V_i-2" value="submariner-lighthouse-agent" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="-690" y="155" width="105" height="40" as="geometry" />
+          <mxGeometry x="-500" y="320" width="105" height="40" as="geometry" />
         </mxCell>
         <mxCell id="B892HaVggG5HM9IF_V_i-3" value="submariner-lighthouse-coredns" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="-690" y="220" width="110" height="40" as="geometry" />
+          <mxGeometry x="-500" y="385" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="B892HaVggG5HM9IF_V_i-5" value="submariner-operator" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-515" y="210" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="B892HaVggG5HM9IF_V_i-7" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;perimeterSpacing=0;strokeWidth=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-770" y="605" width="170" height="112.5" as="geometry" />
+        </mxCell>
+        <mxCell id="B892HaVggG5HM9IF_V_i-8" value="client" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-737.5" y="650" width="105" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="B892HaVggG5HM9IF_V_i-11" value="sample" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-755" y="600" width="140" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
