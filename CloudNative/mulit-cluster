@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-07T02:04:21.401Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="eZY0YHpLiC9w8QKI0LDL" version="21.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-07T02:58:14.581Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="09hVFpS_cCj8gtn0v36I" version="21.1.4" type="github">
   <diagram name="Page-1" id="jJFY8xf02jSkTOgOK_PN">
-    <mxGraphModel dx="4037" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3457" dy="347" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -512,9 +512,6 @@
         </mxCell>
         <mxCell id="B892HaVggG5HM9IF_V_i-237" value="Calico/Flannel/Weave" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;perimeterSpacing=0;strokeWidth=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="734.12" y="2120" width="130" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="B892HaVggG5HM9IF_V_i-238" value="Pod CIDR: 10.8.0.0/16&lt;br&gt;Service CIDR: 10.88.0.0/16" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="874.12" y="1770" width="156" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B892HaVggG5HM9IF_V_i-239" value="172.19.0.8" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="930" y="2240" width="60" height="30" as="geometry" />
