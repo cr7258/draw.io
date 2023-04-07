@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-07T03:44:05.861Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="3-gZ3-9RxkuGaDs6-uSw" version="21.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-07T03:44:50.552Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="nlBB0FVdFuTZQVBaDQVj" version="21.1.4" type="github">
   <diagram name="Page-1" id="jJFY8xf02jSkTOgOK_PN">
     <mxGraphModel dx="2899" dy="37" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -365,7 +365,7 @@
           <mxGeometry x="1204.63" y="1853.75" width="455.75" height="332.5" as="geometry" />
         </mxCell>
         <mxCell id="B892HaVggG5HM9IF_V_i-212" value="&lt;font&gt;node: broker-control-plane&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="395.44" y="1853.75" width="190.75" height="45" as="geometry" />
+          <mxGeometry x="408.75" y="1853.75" width="190.75" height="45" as="geometry" />
         </mxCell>
         <mxCell id="B892HaVggG5HM9IF_V_i-214" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;perimeterSpacing=0;strokeWidth=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="425.44" y="1917.5" width="150" height="100" as="geometry" />
