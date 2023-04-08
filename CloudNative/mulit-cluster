@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-08T13:00:20.782Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="-2Xbw6YpHHhbcADxKP7N" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-08T13:00:48.429Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="WhcXTyDDX2sHUfVaRHn4" version="21.1.5" type="github">
   <diagram name="Page-1" id="jJFY8xf02jSkTOgOK_PN">
     <mxGraphModel dx="4486" dy="320" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2034,10 +2034,10 @@
         <mxCell id="nqWQ6kAVtBUESBGwbi1M-234" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Eth0&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1328.12" y="7085" width="23.5" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="nqWQ6kAVtBUESBGwbi1M-235" value="Pod CIDR: 10.8.0.0/16&lt;br&gt;Service CIDR: 10.88.0.0/16" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="nqWQ6kAVtBUESBGwbi1M-235" value="Pod CIDR: 10.7.0.0/16&lt;br&gt;Service CIDR: 10.77.0.0/16" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="104.12" y="6905.48" width="156" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nqWQ6kAVtBUESBGwbi1M-236" value="Pod CIDR: 10.9.0.0/16&lt;br&gt;Service CIDR: 10.99.0.0/16" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="nqWQ6kAVtBUESBGwbi1M-236" value="Pod CIDR: 10.7.0.0/16&lt;br&gt;Service CIDR: 10.770.0/16" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="435.99" y="6900.01" width="156" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nqWQ6kAVtBUESBGwbi1M-237" value="172.19.0.8" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
