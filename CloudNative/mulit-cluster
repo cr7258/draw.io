@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-09T12:35:34.204Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="5MwX82k9W91XOVhp3zJ-" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-09T12:35:48.237Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="VtMRGnbST6YMvDVbTrNV" version="21.1.5" type="github">
   <diagram name="Page-1" id="jJFY8xf02jSkTOgOK_PN">
     <mxGraphModel dx="4233" dy="191" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2715,7 +2715,7 @@
         <mxCell id="nqWQ6kAVtBUESBGwbi1M-597" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="-449" y="10162.5" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="nqWQ6kAVtBUESBGwbi1M-598" value="curl&lt;br&gt;whereami-0.c2.whereami-cs.sample.svc.clusterset.local&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="nqWQ6kAVtBUESBGwbi1M-598" value="curl&lt;br&gt;whereami-0.g2.whereami-cs.sample.svc.clusterset.local&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-415.25" y="10162.5" width="136" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nqWQ6kAVtBUESBGwbi1M-599" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
